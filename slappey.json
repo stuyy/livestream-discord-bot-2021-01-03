@@ -1,0 +1,7 @@
+{
+  "name": "discord-bot-project",
+  "language": "typescript",
+  "manager": "yarn",
+  "token": "INSERT TOKEN HERE",
+  "prefix": "!"
+}
